@@ -1,0 +1,5 @@
+name: NetherPortals
+version: ${version}
+main: net.valdemarf.netherportals.NetherPortals
+api-version: 1.18
+author: 'Valdemar Foster'
